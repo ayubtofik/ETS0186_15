@@ -42,3 +42,11 @@ This repository showcases  Python string manipulation methods:
    - The rstrip() method removes any trailing whitespace characters from the right side of the string. Like the other methods, it can also remove specified characters.
 # **14. str.split()**
    - The split() method splits a string into a list of substrings based on a specified delimiter. By default, it splits by any whitespace and removes extra whitespace.
+# **15. str.join()** 
+   - The join() method is used to concatenate a sequence of strings (like a list or tuple) into a single  string, with a specified separator between each element.
+# **16. str.isalpha()**
+   - The isalpha() method checks if all the characters in a string are alphabetic (letters only). It returns True if the string contains only letters and is not empty; otherwise, it returns False.
+# **17. str.isdigit()**
+   - The isdigit() method checks if all the characters in a string are digits (0-9). It returns True if the string contains only numeric characters and is not empty; otherwise, it returns False.
+   # **18. str.isalnum()**
+      - The isalnum() method checks if all the characters in a string are alphanumeric (letters and digits). It returns True if the string contains only letters and/or digits and is not empty; otherwise, it returns False.
