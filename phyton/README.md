@@ -48,5 +48,5 @@ This repository showcases  Python string manipulation methods:
    - The isalpha() method checks if all the characters in a string are alphabetic (letters only). It returns True if the string contains only letters and is not empty; otherwise, it returns False.
 # **17. str.isdigit()**
    - The isdigit() method checks if all the characters in a string are digits (0-9). It returns True if the string contains only numeric characters and is not empty; otherwise, it returns False.
-   # **18. str.isalnum()**
-      - The isalnum() method checks if all the characters in a string are alphanumeric (letters and digits). It returns True if the string contains only letters and/or digits and is not empty; otherwise, it returns False.
+# **18. str.isalnum()**
+   - The isalnum() method checks if all the characters in a string are alphanumeric (letters and digits). It returns True if the string contains only letters and/or digits and is not empty; otherwise, it returns False.
