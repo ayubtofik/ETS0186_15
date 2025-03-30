@@ -50,3 +50,11 @@ This repository showcases  Python string manipulation methods:
    - The isdigit() method checks if all the characters in a string are digits (0-9). It returns True if the string contains only numeric characters and is not empty; otherwise, it returns False.
 # **18. str.isalnum()**
    - The isalnum() method checks if all the characters in a string are alphanumeric (letters and digits). It returns True if the string contains only letters and/or digits and is not empty; otherwise, it returns False.
+# **19. str.isspace()**
+   - The str.isspace() method checks if all characters in a string are whitespace characters (spaces, tabs, newlines, etc.). It returns True if the string is empty or contains only whitespace characters; otherwise, it returns False.
+# **20. str.format()**
+   - The str.format() method allows you to format strings by inserting values into placeholders defined by curly braces {}. This method is useful for creating dynamic strings and can handle various data types.
+# **21. f-strings **
+   - F-strings (formatted string literals) are a way to embed expressions inside string literals, using the syntax f"...". They were introduced in Python 3.6 and provide a more concise and readable way to format strings compared to str.format().
+# **22. len()**
+   - The len() function returns the number of items (length) in an object. When used with strings, it returns the number of characters in the string, including spaces and punctuation.
