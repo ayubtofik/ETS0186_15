@@ -58,3 +58,9 @@ This repository showcases  Python string manipulation methods:
    - F-strings (formatted string literals) are a way to embed expressions inside string literals, using the syntax f"...". They were introduced in Python 3.6 and provide a more concise and readable way to format strings compared to str.format().
 # **22. len()**
    - The len() function returns the number of items (length) in an object. When used with strings, it returns the number of characters in the string, including spaces and punctuation.
+# **23. str.encode()**
+   - The str.encode() method is used to convert a string into bytes. This is particularly useful when you need to encode a string for storage or transmission, as it allows you to specify the encoding format 
+# **24. str.islower()**
+   - The str.islower() method checks if all the characters in a string are lowercase. It returns True if all characters are lowercase and there is at least one character; otherwise, it returns False.
+# **25. str.isupper()**
+   - The str.isupper() method checks if all the characters in a string are uppercase. It returns True if all characters are uppercase and there is at least one character; otherwise, it returns False.
