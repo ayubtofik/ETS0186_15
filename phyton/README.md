@@ -64,3 +64,12 @@ This repository showcases  Python string manipulation methods:
    - The str.islower() method checks if all the characters in a string are lowercase. It returns True if all characters are lowercase and there is at least one character; otherwise, it returns False.
 # **25. str.isupper()**
    - The str.isupper() method checks if all the characters in a string are uppercase. It returns True if all characters are uppercase and there is at least one character; otherwise, it returns False.
+
+ Below is provided definition of some list methods in Python
+
+# **1. append()**
+   - The append() method adds a single element to the end of a list. It modifies the original list in place.
+# **2. clear()**
+   - The clear() method removes all items from the list, leaving it empty. This method modifies the original list in place.
+# **3. copy()**
+   - The copy() method returns a shallow copy of the list. A shallow copy means that it creates a new list object but does not create copies of nested objects; instead, it references them.
