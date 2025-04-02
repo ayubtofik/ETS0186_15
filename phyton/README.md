@@ -73,3 +73,9 @@ This repository showcases  Python string manipulation methods:
    - The clear() method removes all items from the list, leaving it empty. This method modifies the original list in place.
 # **3. copy()**
    - The copy() method returns a shallow copy of the list. A shallow copy means that it creates a new list object but does not create copies of nested objects; instead, it references them.
+# **4. count()**
+   - The count() method returns the number of times a specified value appears in a list.
+# **5. extend()**
+   - The extend() method adds the elements of an iterable (like a list, tuple, or set) to the end of the current list.
+# **6. index()**
+   - The index() method returns the index of the first occurrence of a specified value in a list. If the value is not found, it raises a ValueError.
