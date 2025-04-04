@@ -79,3 +79,9 @@ This repository showcases  Python string manipulation methods:
    - The extend() method adds the elements of an iterable (like a list, tuple, or set) to the end of the current list.
 # **6. index()**
    - The index() method returns the index of the first occurrence of a specified value in a list. If the value is not found, it raises a ValueError.
+# **7. insert()**
+   - The insert() method is used to insert an element at a specified position in a list.
+# **8. pop()**
+   - The pop() method removes and returns an element from a specified position in the list. If no index is specified, it removes and returns the last item in the list.
+# **9. remove()**
+   - The remove() method removes the first occurrence of a specified value from the list. If the value is not found, it raises a ValueError.
