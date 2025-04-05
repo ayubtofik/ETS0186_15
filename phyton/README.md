@@ -85,3 +85,8 @@ This repository showcases  Python string manipulation methods:
    - The pop() method removes and returns an element from a specified position in the list. If no index is specified, it removes and returns the last item in the list.
 # **9. remove()**
    - The remove() method removes the first occurrence of a specified value from the list. If the value is not found, it raises a ValueError.
+# **10. reverse()**
+   - The reverse() method reverses the elements of a list in place. This means that the original list is modified and no new list is created.
+# **11. sort()**
+   - The sort() method sorts the elements of a list in ascending order by default. 
+   
