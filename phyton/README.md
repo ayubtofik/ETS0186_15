@@ -90,3 +90,11 @@ This repository showcases  Python string manipulation methods:
 # **11. sort()**
    - The sort() method sorts the elements of a list in ascending order by default. 
    
+Below is provided definition of some dictionary methods in Python
+
+# **1. clear()**
+   - The clear() method removes all items from the dictionary, resulting in an empty dictionary. This method modifies the dictionary in place and does not return any value.
+# **2. copy()**
+   - The copy() method returns a shallow copy of the dictionary. This means it creates a new dictionary object with the same key-value pairs as the original dictionary. Changes made to the copied dictionary do not affect the original dictionary.
+# **3. fromkeys()**
+   - The fromkeys() method creates a new dictionary from the given sequence of keys, with all values set to a specified value (default is None). This method returns a new dictionary and does not modify the original dictionary.
