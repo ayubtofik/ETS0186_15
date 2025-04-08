@@ -98,3 +98,9 @@ Below is provided definition of some dictionary methods in Python
    - The copy() method returns a shallow copy of the dictionary. This means it creates a new dictionary object with the same key-value pairs as the original dictionary. Changes made to the copied dictionary do not affect the original dictionary.
 # **3. fromkeys()**
    - The fromkeys() method creates a new dictionary from the given sequence of keys, with all values set to a specified value (default is None). This method returns a new dictionary and does not modify the original dictionary.
+# **4. get()**
+   - The get() method is used to retrieve the value associated with a specified key from a dictionary. If the key does not exist, it returns None or a specified default value.
+# **5. The items()**
+   - The items() method returns a view object that displays a list of a dictionary's key-value tuple pairs. It allows you to iterate over both keys and values.
+# **6. keys()**
+   - The keys() method returns a view object that displays a list of all the keys in the dictionary. This method is useful when you need to iterate over the keys.
