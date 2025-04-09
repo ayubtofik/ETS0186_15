@@ -104,3 +104,9 @@ Below is provided definition of some dictionary methods in Python
    - The items() method returns a view object that displays a list of a dictionary's key-value tuple pairs. It allows you to iterate over both keys and values.
 # **6. keys()**
    - The keys() method returns a view object that displays a list of all the keys in the dictionary. This method is useful when you need to iterate over the keys.
+# **7. pop()**
+   - The pop() method removes a specified key from the dictionary and returns its corresponding value. If the key is not found, it raises a KeyError. You can also provide a default value that will be returned if the key does not exist.
+# **8. popitem()**
+   - The popitem() method removes and returns the last inserted key-value pair from the dictionary as a tuple. If the dictionary is empty, it raises a KeyError.
+# **9. setdefault()**
+   - The setdefault() method returns the value of a specified key. If the key does not exist, it inserts the key with a specified default value and returns that value.
