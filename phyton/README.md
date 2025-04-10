@@ -110,3 +110,7 @@ Below is provided definition of some dictionary methods in Python
    - The popitem() method removes and returns the last inserted key-value pair from the dictionary as a tuple. If the dictionary is empty, it raises a KeyError.
 # **9. setdefault()**
    - The setdefault() method returns the value of a specified key. If the key does not exist, it inserts the key with a specified default value and returns that value.
+# ** 10.update()**
+   - The update() method is used to update a dictionary with elements from another dictionary or from an iterable of key-value pairs.It modifies the dictionary in place and can take another dictionary. 
+# **11. values()**
+   - The values() method returns a view object that displays a list of all the values in the dictionary.
