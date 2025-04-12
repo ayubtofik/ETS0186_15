@@ -119,3 +119,10 @@ count and index
    - The count() method returns the number of occurrences of a specified value in a list.
 # **2. index()**
    - The index() method returns the index of the first occurrence of a specified value in a list. If the value is not found, it raises a ValueError.
+Below is provided definition of some Set Methods in Python
+# **1. add()**
+   - Adds an element  to the set. If the element already exists, it does nothing.
+# **2. remove()**
+   - Removes the specified element from the set. Raises a KeyError if the element is not found.
+# **3. discard()**
+   - Removes the specified element  from the set if it is present. Does not raise an error if the element is not found.
