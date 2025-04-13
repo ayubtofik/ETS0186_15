@@ -126,3 +126,12 @@ Below is provided definition of some Set Methods in Python
    - Removes the specified element from the set. Raises a KeyError if the element is not found.
 # **3. discard()**
    - Removes the specified element  from the set if it is present. Does not raise an error if the element is not found.
+
+logical operators 
+# **1. and Operator**
+   - The and operator returns True if both operands are true.and Returns True if both statements are true.
+# **2. or Operator**
+   - The or operator returns True if at least one of the operands is true.
+# **3. not Operator**
+   - not Returns True if the statement is false.
+   
