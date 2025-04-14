@@ -126,7 +126,12 @@ Below is provided definition of some Set Methods in Python
    - Removes the specified element from the set. Raises a KeyError if the element is not found.
 # **3. discard()**
    - Removes the specified element  from the set if it is present. Does not raise an error if the element is not found.
-
+# **1. difference()**
+   - Returns a new set containing elements that are in the first set but not in the other specified sets.
+# **2. difference_update()**
+   - Removes elements from the set that are present in the specified sets. This method modifies the original set in place.
+# **3. discard()**
+   - Removes an element from the set if it is present. If the element is not present, it does nothing (does not raise an error).
 logical operators 
 # **1. and Operator**
    - The and operator returns True if both operands are true.and Returns True if both statements are true.
