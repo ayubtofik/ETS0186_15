@@ -126,12 +126,18 @@ Below is provided definition of some Set Methods in Python
    - Removes the specified element from the set. Raises a KeyError if the element is not found.
 # **3. discard()**
    - Removes the specified element  from the set if it is present. Does not raise an error if the element is not found.
-# **1. difference()**
+# **4. difference()**
    - Returns a new set containing elements that are in the first set but not in the other specified sets.
-# **2. difference_update()**
+# **5. difference_update()**
    - Removes elements from the set that are present in the specified sets. This method modifies the original set in place.
-# **3. discard()**
+# **6. discard()**
    - Removes an element from the set if it is present. If the element is not present, it does nothing (does not raise an error).
+# **7. intersection()**
+   - The intersection() method returns a new set containing all items that are present in all specified sets. It does not modify the original sets.
+# **8. intersection_update()**
+   - The intersection_update() method updates the set on which it is called, keeping only elements found in all specified sets. This means it modifies the original set.
+# **9. isdisjoint()**
+   - The isdisjoint() method checks whether two sets have no elements in common. It returns True if the sets are disjoint (i.e., they do not share any elements) and False otherwise.
 logical operators 
 # **1. and Operator**
    - The and operator returns True if both operands are true.and Returns True if both statements are true.
