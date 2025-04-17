@@ -138,6 +138,12 @@ Below is provided definition of some Set Methods in Python
    - The intersection_update() method updates the set on which it is called, keeping only elements found in all specified sets. This means it modifies the original set.
 # **9. isdisjoint()**
    - The isdisjoint() method checks whether two sets have no elements in common. It returns True if the sets are disjoint (i.e., they do not share any elements) and False otherwise.
+# **10. issubset()**
+   - The issubset() method checks if a set is a subset of another set. A set A is a subset of set B if all elements of A are also elements of B.
+# **11. issuperset()**
+   - The issuperset() method checks if a set is a superset of another set. A set A is a superset of set B if all elements of B are also elements of A.
+# **12. update()**
+   - The update() method adds elements from one set (or any iterable) to another set. If the elements already exist in the set, they will not be added again (since sets do not allow duplicates)
 logical operators 
 # **1. and Operator**
    - The and operator returns True if both operands are true.and Returns True if both statements are true.
