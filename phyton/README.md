@@ -144,6 +144,12 @@ Below is provided definition of some Set Methods in Python
    - The issuperset() method checks if a set is a superset of another set. A set A is a superset of set B if all elements of B are also elements of A.
 # **12. update()**
    - The update() method adds elements from one set (or any iterable) to another set. If the elements already exist in the set, they will not be added again (since sets do not allow duplicates)
+# **13. flush()**
+   - The primary purpose of flush() is to ensure that all data that has been buffered (i.e., held in memory temporarily) is actually written to the file or output stream.
+# **14. detach()**
+   - The detach() method is often used to detach a stream from its underlying buffer.
+# **15. fileno()**
+   - This function returns the file descriptor for a file object, which is an integer handle used to identify an open file in low-level I/O operations.
 logical operators 
 # **1. and Operator**
    - The and operator returns True if both operands are true.and Returns True if both statements are true.
