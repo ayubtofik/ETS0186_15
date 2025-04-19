@@ -130,7 +130,7 @@ Below is provided definition of some Set Methods in Python
    - Returns a new set containing elements that are in the first set but not in the other specified sets.
 # **5. difference_update()**
    - Removes elements from the set that are present in the specified sets. This method modifies the original set in place.
-# **6. discard()**
+# **6. tell()**
    - Removes an element from the set if it is present. If the element is not present, it does nothing (does not raise an error).
 # **7. intersection()**
    - The intersection() method returns a new set containing all items that are present in all specified sets. It does not modify the original sets.
@@ -150,6 +150,18 @@ Below is provided definition of some Set Methods in Python
    - The detach() method is often used to detach a stream from its underlying buffer.
 # **15. fileno()**
    - This function returns the file descriptor for a file object, which is an integer handle used to identify an open file in low-level I/O operations.
+# **16. isatty()**
+   - checks whether a file descriptor is open and connected to a terminal (TTY). It returns True if the file is connected to a terminal; otherwise, it returns False.
+# **17. read()**
+   - reads data from the file. If the size argument is specified, it reads up to that many bytes. If no size is specified or if it is set to -1, it reads until EOF (end of file).
+# **18. readable()**
+   - checks if the file object can be read from. It returns True if the file is readable; otherwise, it returns False. 
+
+
+
+
+
+
 logical operators 
 # **1. and Operator**
    - The and operator returns True if both operands are true.and Returns True if both statements are true.
